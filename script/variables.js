@@ -25,7 +25,7 @@ let div = num1 / num2;
 let mult = num1 * num2;
 
 
-// string.interpolation
+// string.interpolation concatinations
 console.log(`${num1} + ${num2} = ${sum}`)
 console.log(`${num1} - ${num2} = ${sub}`)
 console.log(`${num1} / ${num2} = ${div}`)

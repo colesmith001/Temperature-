@@ -1,0 +1,25 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: lavender;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:20px ;
+    font-weight:bold ;
+    margin:20px ;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:20px ;
+    font-weight:bold ;
+    margin:20px ;
+}
+li{
+    background-color:white ;
+    width: 300px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin:50px ;
+    font-size: 20px;
+}
